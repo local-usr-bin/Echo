@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.env.*
+.runtime/
+.pytest_cache/
+.mypy_cache/
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak
+# Private engineering evidence and generated numerical/GUI outputs are not source.
+audit/
+incoming/
+work/
+outputs/
+results/
+screenshots/
+*.npz
